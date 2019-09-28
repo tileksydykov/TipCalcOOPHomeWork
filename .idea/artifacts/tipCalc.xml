@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="tipCalc">
+    <output-path>$USER_HOME$/tipCalc</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="hello" />
+        <option name="vendor" value="i" />
+        <option name="version" value="1.00" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="tipCalc.jar">
+        <element id="module-output" name="tipCalc" />
+      </element>
+    </root>
+  </artifact>
+</component>
